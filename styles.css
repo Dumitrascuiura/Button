@@ -1,0 +1,27 @@
+#first {
+    background-color: blue;
+     color: white;
+     width: 100px;
+     border: 2px solid darkblue;
+     padding: 10px;
+     border-radius: 5px;
+     font: 15px arial, bold;
+   }
+   #second {
+      background-color: green;
+     color: white;
+     width: 100px;
+     border: 2px solid darkgreen;
+     padding: 10px;
+     border-radius: 5px;
+     font: 15px arial, bold;
+   }
+   #third {
+     background-color: red;
+     color: white;
+     width: 100px;
+     border: 2px solid darkred;
+     padding: 10px;
+     border-radius: 5px;
+     font: 15px arial, bold;
+   }
